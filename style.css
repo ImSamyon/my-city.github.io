@@ -76,21 +76,6 @@ th {
     border: 3px solid #ffd2d8;
 }
 
-.link {
-    background-color: #c8102e;
-    color: white;
-    padding: 12px 20px;
-    margin-top: 10px;
-    margin-right: 8px;
-    display: inline-block;
-    text-decoration: none;
-    border-radius: 8px;
-}
-
-.button:hover {
-    background-color: #8f0b20;
-}
-
 table {
     width: 100%;
     border-collapse: collapse;
